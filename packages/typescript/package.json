@@ -1,0 +1,27 @@
+{
+  "name": "@42arch/eslint-config-ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "files": [
+    "index.js"
+  ],
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">=7.4.0",
+    "typescript": ">=3.9"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.47.1",
+    "@typescript-eslint/parser": "^5.47.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "typescript": "^4.9.4"
+  }
+}
