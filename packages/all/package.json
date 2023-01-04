@@ -1,5 +1,5 @@
 {
-  "name": "@42arch/eslint-config-react",
+  "name": "@42arch/eslint-config",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -10,13 +10,7 @@
   "author": "",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": ">=7.4.0",
-    "react": ">= 14"
-  },
-  "dependencies": {
-    "@42arch/eslint-config-ts": "workspace:*",
-    "eslint-plugin-react": "^7.31.11",
-    "eslint-plugin-react-hooks": "^4.6.0"
+    "eslint": ">=7.4.0"
   },
   "devDependencies": {
     "eslint": "^8.31.0"
